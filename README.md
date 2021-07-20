@@ -1,0 +1,1 @@
+Projeto de uma calculadora utilizando a linguagem de programação Python junto com a biblioteca Tkinter para a criação da interface gráfica.
